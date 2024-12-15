@@ -1,2 +1,1 @@
-from USER-AGENT import UA
-
+from USER-AGENT.UA import specific_function
